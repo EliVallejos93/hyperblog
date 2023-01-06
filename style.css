@@ -1,11 +1,12 @@
-body {}
+body {
+    font-family:'Courier New', Courier, monospace
+}
 
 .contenido {
     border: 5px solid rgb(105, 100, 100);
     width: 60%;
     margin: 0 auto;
     color: rgb(59, 48, 48);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 30px;
 }
 
@@ -13,5 +14,4 @@ body {}
     color: rgb(90, 87, 85);
     font-size: larger;
     padding-left: 50px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
