@@ -1,5 +1,5 @@
 body {
-    font-family:'Courier New', Courier, monospace
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .contenido {
@@ -14,4 +14,15 @@ body {
     color: rgb(90, 87, 85);
     font-size: larger;
     padding-left: 50px;
+}
+
+#cabecera{
+    color:aliceblue;
+    background-color: rgb(56, 94, 129);
+    padding: 20px;
+    margin: -35px auto;
+    margin-bottom: 5px;
+    margin-left: -35px;
+    width: 105%;
+    font-size: 25px;
 }
