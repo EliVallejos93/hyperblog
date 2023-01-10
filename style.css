@@ -1,13 +1,18 @@
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:gray;
 }
 
 .contenido {
+    background-color:white;
+    padding: 10px 30px 30px 30px;
+}
+
+.caja {
     border: 5px solid rgb(105, 100, 100);
     width: 60%;
     margin: 0 auto;
     color: rgb(59, 48, 48);
-    padding: 30px;
 }
 
 .contenido h2 {
@@ -19,10 +24,13 @@ body {
 #cabecera{
     color:aliceblue;
     background-color: rgb(56, 94, 129);
-    padding: 20px;
-    margin: -35px auto;
-    margin-bottom: 5px;
-    margin-left: -35px;
-    width: 105%;
-    font-size: 25px;
+    padding: 30px;
+    margin: -5px -5px;
+    font-size: 30px;
+}
+
+#cabecera img{
+    width: 4rem;
+    margin: -15px 1rem -5px 1rem;
+    vertical-align:middle;
 }
